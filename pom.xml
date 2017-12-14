@@ -34,6 +34,6 @@
 
 	</dependencies>
 	<build>
-		<finalName>ROOT</finalName>
+		<finalName>application-log</finalName>
 	</build>
 </project>
